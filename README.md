@@ -1,10 +1,10 @@
-Структура проекта
+Структура проекта<br><br>
 
-heygen-avatar/
-├── index.html          # HTML файл
-├── main.ts            # TypeScript файл
-├── package.json       # Зависимости проекта
-├── .env              # Переменные окружения (НЕ загружать на сервер!)
-├── .env.example      # Пример переменных
-├── vite.config.ts    # Конфигурация Vite
-└── .gitignore        # Игнорируемые файлы
+heygen-avatar/<br>
+├── index.html          # HTML файл<br>
+├── main.ts            # TypeScript файл<br>
+├── package.json       # Зависимости проекта<br>
+├── .env              # Переменные окружения (НЕ загружать на сервер!)<br>
+├── .env.example      # Пример переменных<br>
+├── vite.config.ts    # Конфигурация Vite<br>
+└── .gitignore        # Игнорируемые файлы<br>
